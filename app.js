@@ -5,6 +5,7 @@ const locationTimeZone = document.querySelector(".location-timezone");
 const iconFile = document.querySelector(".location-icon");
 const tempUnit = document.querySelector(".temp-unit")
 
+
 // event linsteners
 // instruction on loading
 
